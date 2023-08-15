@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/alyverse.github.io/static/css/main.3489d2a2.css",
-    "main.js": "/alyverse.github.io/static/js/main.62158b8e.js",
+    "main.js": "/alyverse.github.io/static/js/main.d21e2138.js",
     "static/js/787.1ed0c42c.chunk.js": "/alyverse.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/web.jpg": "/alyverse.github.io/static/media/web.b26906aa0583f6492fd3.jpg",
     "static/media/prog-topp.jpg": "/alyverse.github.io/static/media/prog-topp.bad917b8a18c8a5563dd.jpg",
+    "static/media/cv_temp.pdf": "/alyverse.github.io/static/media/cv_temp.04b79a8e7c316301f9da.pdf",
     "index.html": "/alyverse.github.io/index.html",
     "main.3489d2a2.css.map": "/alyverse.github.io/static/css/main.3489d2a2.css.map",
-    "main.62158b8e.js.map": "/alyverse.github.io/static/js/main.62158b8e.js.map",
+    "main.d21e2138.js.map": "/alyverse.github.io/static/js/main.d21e2138.js.map",
     "787.1ed0c42c.chunk.js.map": "/alyverse.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3489d2a2.css",
-    "static/js/main.62158b8e.js"
+    "static/js/main.d21e2138.js"
   ]
 }
